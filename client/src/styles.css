@@ -1,0 +1,78 @@
+:root{
+  --bg:#f7f8fb;
+  --card:#ffffff;
+  --muted:#6b7280;
+  --accent:#2563eb;
+}
+
+body{
+  font-family: Inter, system-ui, Arial, sans-serif;
+  margin:0;
+  background:var(--bg);
+  color:#111827;
+  padding:24px;
+}
+
+.container{
+  max-width:900px;
+  margin:0 auto;
+  background:var(--card);
+  padding:20px;
+  border-radius:8px;
+  box-shadow:0 6px 18px rgba(16,24,40,0.06);
+}
+
+header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  margin-bottom:12px;
+}
+
+.controls{
+  display:flex;
+  gap:8px;
+  align-items:center;
+}
+
+select, button{
+  padding:6px 10px;
+  border-radius:6px;
+  border:1px solid #e5e7eb;
+  background:white;
+}
+
+button{
+  background:var(--accent);
+  color:white;
+  border:none;
+  cursor:pointer;
+}
+
+.asociados-table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:12px;
+}
+
+.asociados-table th, .asociados-table td{
+  text-align:left;
+  padding:10px;
+  border-bottom:1px solid #eef2ff;
+}
+
+.asociados-table thead th{
+  font-weight:600;
+  color:var(--muted);
+}
+
+.info{
+  color:var(--muted);
+  padding:10px;
+}
+
+.error{
+  color:#b91c1c;
+  padding:10px;
+}
