@@ -1,0 +1,303 @@
+[
+  {
+    "id": "asoc001",
+    "Nombre": "Juan Pérez",
+    "Identificación": "10203040",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc002",
+    "Nombre": "María Gómez",
+    "Identificación": "99442211",
+    "estado_pipeline": "Pendiente Jurídico",
+    "ultima_actualizacion": "2025-12-05T19:10:01.990Z"
+  },
+  {
+    "id": "asoc003",
+    "Nombre": "Carlos Rodríguez",
+    "Identificación": "55667788",
+    "estado_pipeline": "Pendiente Jurídico"
+  },
+  {
+    "id": "asoc004",
+    "Nombre": "Laura Martínez",
+    "Identificación": "77441122",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc005",
+    "Nombre": "Santiago Herrera",
+    "Identificación": "90887766",
+    "estado_pipeline": "Cartera Activa"
+  },
+  {
+    "id": "asoc006",
+    "Nombre": "Ana Sofía Rivas",
+    "Identificación": "11223344",
+    "estado_pipeline": "Pendiente Cierre de Crédito"
+  },
+  {
+    "id": "asoc007",
+    "Nombre": "Valentina Ospina",
+    "Identificación": "66778899",
+    "estado_pipeline": "Pendiente Jurídico"
+  },
+  {
+    "id": "asoc008",
+    "Nombre": "Mateo Castaño",
+    "Identificación": "33445566",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc009",
+    "Nombre": "Samuel Rivera",
+    "Identificación": "22003344",
+    "estado_pipeline": "Cartera Activa"
+  },
+  {
+    "id": "asoc010",
+    "Nombre": "Juliana Pardo",
+    "Identificación": "88112233",
+    "estado_pipeline": "Pendiente Firma y Litivo"
+  },
+  {
+    "id": "asoc011",
+    "Nombre": "Andrés Nieto",
+    "Identificación": "66554433",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc012",
+    "Nombre": "Camila Peña",
+    "Identificación": "99880011",
+    "estado_pipeline": "Pendiente Revisión Abogado"
+  },
+  {
+    "id": "asoc013",
+    "Nombre": "Esteban Quintero",
+    "Identificación": "44112233",
+    "estado_pipeline": "Expediente en Construcción"
+  },
+  {
+    "id": "asoc014",
+    "Nombre": "Daniela Torres",
+    "Identificación": "12344321",
+    "estado_pipeline": "Pendiente Jurídico"
+  },
+  {
+    "id": "asoc015",
+    "Nombre": "Felipe Ramírez",
+    "Identificación": "65432198",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc016",
+    "Nombre": "Sara Medina",
+    "Identificación": "88997766",
+    "estado_pipeline": "Cartera Activa"
+  },
+  {
+    "id": "asoc017",
+    "Nombre": "Tomás Aguilar",
+    "Identificación": "33221100",
+    "estado_pipeline": "Pendiente Generar Crédito"
+  },
+  {
+    "id": "asoc018",
+    "Nombre": "Lucía Fonseca",
+    "Identificación": "44778899",
+    "estado_pipeline": "Desembolsado/Finalizado"
+  },
+  {
+    "id": "asoc019",
+    "Nombre": "Elena Vargas",
+    "Identificación": "55118822",
+    "estado_pipeline": "Pendiente Firma y Litivo"
+  },
+  {
+    "id": "asoc020",
+    "Nombre": "Sebastián Duarte",
+    "Identificación": "77001122",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc021",
+    "Nombre": "Gabriela Castro",
+    "Identificación": "44553311",
+    "estado_pipeline": "Cartera Activa"
+  },
+  {
+    "id": "asoc022",
+    "Nombre": "Marcos Molina",
+    "Identificación": "22334455",
+    "estado_pipeline": "Pendiente Jurídico"
+  },
+  {
+    "id": "asoc023",
+    "Nombre": "Isabella Campos",
+    "Identificación": "99887744",
+    "estado_pipeline": "Expediente en Construcción"
+  },
+  {
+    "id": "asoc024",
+    "Nombre": "Diana Salazar",
+    "Identificación": "11002233",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc025",
+    "Nombre": "Juan Sebastián Rojas",
+    "Identificación": "88776655",
+    "estado_pipeline": "Cartera Activa"
+  },
+  {
+    "id": "asoc026",
+    "Nombre": "Natalia Guzmán",
+    "Identificación": "66770011",
+    "estado_pipeline": "Pendiente Firma y Litivo"
+  },
+  {
+    "id": "asoc027",
+    "Nombre": "Simón Carrillo",
+    "Identificación": "55664433",
+    "estado_pipeline": "Pendiente Revisión Abogado"
+  },
+  {
+    "id": "asoc028",
+    "Nombre": "Laura Castillo",
+    "Identificación": "22990011",
+    "estado_pipeline": "Expediente en Construcción"
+  },
+  {
+    "id": "asoc029",
+    "Nombre": "Andrés Cifuentes",
+    "Identificación": "77889900",
+    "estado_pipeline": "Pendiente Jurídico"
+  },
+  {
+    "id": "asoc030",
+    "Nombre": "Daniela López",
+    "Identificación": "33001122",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc031",
+    "Nombre": "Miguel Ortiz",
+    "Identificación": "66558844",
+    "estado_pipeline": "Cartera Activa"
+  },
+  {
+    "id": "asoc032",
+    "Nombre": "Adriana Sierra",
+    "Identificación": "12003456",
+    "estado_pipeline": "Pendiente Cierre de Crédito"
+  },
+  {
+    "id": "asoc033",
+    "Nombre": "David Patiño",
+    "Identificación": "99881122",
+    "estado_pipeline": "Pendiente Jurídico"
+  },
+  {
+    "id": "asoc034",
+    "Nombre": "Mariana Roldán",
+    "Identificación": "88115544",
+    "estado_pipeline": "Desembolsado/Finalizado"
+  },
+  {
+    "id": "asoc035",
+    "Nombre": "Luis Camacho",
+    "Identificación": "33446688",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc036",
+    "Nombre": "Sofía Vargas",
+    "Identificación": "22114455",
+    "estado_pipeline": "Expediente en Construcción"
+  },
+  {
+    "id": "asoc037",
+    "Nombre": "Andrés Melo",
+    "Identificación": "44335522",
+    "estado_pipeline": "Pendiente Revisión Abogado"
+  },
+  {
+    "id": "asoc038",
+    "Nombre": "Paula Montoya",
+    "Identificación": "55667700",
+    "estado_pipeline": "Pendiente Jurídico"
+  },
+  {
+    "id": "asoc039",
+    "Nombre": "Camilo Lozano",
+    "Identificación": "11992233",
+    "estado_pipeline": "Cartera Activa"
+  },
+  {
+    "id": "asoc040",
+    "Nombre": "Victoria Herrera",
+    "Identificación": "77884455",
+    "estado_pipeline": "Pendiente Firma y Litivo"
+  },
+  {
+    "id": "asoc041",
+    "Nombre": "Julián Cárdenas",
+    "Identificación": "33225566",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc042",
+    "Nombre": "Selena Rincón",
+    "Identificación": "55001122",
+    "estado_pipeline": "Expediente en Construcción"
+  },
+  {
+    "id": "asoc043",
+    "Nombre": "Manuel Gaitán",
+    "Identificación": "44776655",
+    "estado_pipeline": "Pendiente Jurídico"
+  },
+  {
+    "id": "asoc044",
+    "Nombre": "Diana Moreno",
+    "Identificación": "99001122",
+    "estado_pipeline": "Cartera Activa"
+  },
+  {
+    "id": "asoc045",
+    "Nombre": "Juan Pablo Castaño",
+    "Identificación": "66778844",
+    "estado_pipeline": "Pendiente Cierre de Crédito"
+  },
+  {
+    "id": "asoc046",
+    "Nombre": "Carolina Silva",
+    "Identificación": "22889911",
+    "estado_pipeline": "Pendiente Jurídico"
+  },
+  {
+    "id": "asoc047",
+    "Nombre": "Esteban Álvarez",
+    "Identificación": "44119988",
+    "estado_pipeline": "Desembolsado/Finalizado"
+  },
+  {
+    "id": "asoc048",
+    "Nombre": "Sara Ríos",
+    "Identificación": "77331122",
+    "estado_pipeline": "Pendiente Revisión Abogado"
+  },
+  {
+    "id": "asoc049",
+    "Nombre": "Tomás Benítez",
+    "Identificación": "66002211",
+    "estado_pipeline": "Prospecto"
+  },
+  {
+    "id": "asoc050",
+    "Nombre": "Natalia Jiménez",
+    "Identificación": "99884411",
+    "estado_pipeline": "Expediente en Construcción"
+  }
+]
